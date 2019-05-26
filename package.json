@@ -1,0 +1,25 @@
+{
+  "name": "a-todo-application",
+  "version": "1.0.0",
+  "private": true,
+  "keywords": [],
+  "description": "A simple Todo list application build with Aurelia.",
+  "main": "codesandbox.js",
+  "dependencies": {
+    "aurelia-event-aggregator": "latest",
+    "aurelia-framework": "latest",
+    "aurelia-history-browser": "latest",
+    "aurelia-loader": "latest",
+    "aurelia-logging": "latest",
+    "aurelia-logging-console": "latest",
+    "aurelia-metadata": "latest",
+    "aurelia-pal": "latest",
+    "aurelia-pal-browser": "latest",
+    "aurelia-polyfills": "latest",
+    "aurelia-router": "latest",
+    "aurelia-templating": "latest",
+    "aurelia-templating-binding": "latest",
+    "aurelia-templating-resources": "latest",
+    "aurelia-templating-router": "latest"
+  }
+}
